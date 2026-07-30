@@ -1,0 +1,100 @@
+2026-07-30T09:10:00Z INFO  [auth-service] Starting application on port 8080
+2026-07-30T09:10:01Z INFO  [auth-service] Loading configuration from ConfigMap
+2026-07-30T09:10:02Z INFO  [auth-service] Initializing dependency injection container
+2026-07-30T09:10:03Z INFO  [auth-service] Connected to PostgreSQL database
+2026-07-30T09:10:04Z INFO  [auth-service] Connected to Redis cache
+2026-07-30T09:10:05Z INFO  [auth-service] Registered health check endpoint
+2026-07-30T09:10:06Z INFO  [auth-service] Registered metrics endpoint
+2026-07-30T09:10:07Z INFO  [auth-service] Pod assigned to node worker-node-1
+2026-07-30T09:10:08Z INFO  [auth-service] Readiness probe succeeded
+2026-07-30T09:10:09Z INFO  [auth-service] Liveness probe succeeded
+2026-07-30T09:10:10Z INFO  [auth-service] Received authentication request
+2026-07-30T09:10:11Z INFO  [auth-service] Authentication successful for user user12
+2026-07-30T09:10:12Z INFO  [auth-service] JWT token generated
+2026-07-30T09:10:13Z INFO  [auth-service] Request processed in 14 ms
+2026-07-30T09:10:14Z INFO  [auth-service] Cache hit for session 15
+2026-07-30T09:10:15Z INFO  [auth-service] Fetched user profile 16
+2026-07-30T09:10:16Z INFO  [auth-service] Database query completed in 17 ms
+2026-07-30T09:10:17Z INFO  [auth-service] Connection pool status: active=8 idle=12
+2026-07-30T09:10:18Z INFO  [auth-service] Background scheduler heartbeat
+2026-07-30T09:10:19Z INFO  [auth-service] Pod is Ready
+2026-07-30T09:10:20Z INFO  [auth-service] Starting application on port 8080
+2026-07-30T09:10:21Z INFO  [auth-service] Loading configuration from ConfigMap
+2026-07-30T09:10:22Z INFO  [auth-service] Initializing dependency injection container
+2026-07-30T09:10:23Z INFO  [auth-service] Connected to PostgreSQL database
+2026-07-30T09:10:24Z INFO  [auth-service] Connected to Redis cache
+2026-07-30T09:10:25Z INFO  [auth-service] Registered health check endpoint
+2026-07-30T09:10:26Z INFO  [auth-service] Registered metrics endpoint
+2026-07-30T09:10:27Z INFO  [auth-service] Pod assigned to node worker-node-1
+2026-07-30T09:10:28Z INFO  [auth-service] Readiness probe succeeded
+2026-07-30T09:10:29Z INFO  [auth-service] Liveness probe succeeded
+2026-07-30T09:10:30Z INFO  [auth-service] Received authentication request
+2026-07-30T09:10:31Z INFO  [auth-service] Authentication successful for user user32
+2026-07-30T09:10:32Z INFO  [auth-service] JWT token generated
+2026-07-30T09:10:33Z INFO  [auth-service] Request processed in 34 ms
+2026-07-30T09:10:34Z INFO  [auth-service] Cache hit for session 35
+2026-07-30T09:10:35Z INFO  [auth-service] Fetched user profile 36
+2026-07-30T09:10:36Z INFO  [auth-service] Database query completed in 37 ms
+2026-07-30T09:10:37Z INFO  [auth-service] Connection pool status: active=8 idle=12
+2026-07-30T09:10:38Z INFO  [auth-service] Background scheduler heartbeat
+2026-07-30T09:10:39Z INFO  [auth-service] Pod is Ready
+2026-07-30T09:10:40Z INFO  [auth-service] Starting application on port 8080
+2026-07-30T09:10:41Z INFO  [auth-service] Loading configuration from ConfigMap
+2026-07-30T09:10:42Z INFO  [auth-service] Initializing dependency injection container
+2026-07-30T09:10:43Z INFO  [auth-service] Connected to PostgreSQL database
+2026-07-30T09:10:44Z INFO  [auth-service] Connected to Redis cache
+2026-07-30T09:10:45Z INFO  [auth-service] Registered health check endpoint
+2026-07-30T09:10:46Z INFO  [auth-service] Registered metrics endpoint
+2026-07-30T09:10:47Z INFO  [auth-service] Pod assigned to node worker-node-1
+2026-07-30T09:10:48Z INFO  [auth-service] Readiness probe succeeded
+2026-07-30T09:10:49Z INFO  [auth-service] Liveness probe succeeded
+2026-07-30T09:10:50Z INFO  [auth-service] Received authentication request
+2026-07-30T09:10:51Z INFO  [auth-service] Authentication successful for user user2
+2026-07-30T09:10:52Z INFO  [auth-service] JWT token generated
+2026-07-30T09:10:53Z INFO  [auth-service] Request processed in 4 ms
+2026-07-30T09:10:54Z INFO  [auth-service] Cache hit for session 5
+2026-07-30T09:10:55Z INFO  [auth-service] Fetched user profile 6
+2026-07-30T09:10:56Z INFO  [auth-service] Database query completed in 7 ms
+2026-07-30T09:10:57Z INFO  [auth-service] Connection pool status: active=8 idle=12
+2026-07-30T09:10:58Z INFO  [auth-service] Background scheduler heartbeat
+2026-07-30T09:10:59Z INFO  [auth-service] Pod is Ready
+2026-07-30T09:11:00Z INFO  [auth-service] Starting application on port 8080
+2026-07-30T09:11:01Z INFO  [auth-service] Loading configuration from ConfigMap
+2026-07-30T09:11:02Z INFO  [auth-service] Initializing dependency injection container
+2026-07-30T09:11:03Z INFO  [auth-service] Connected to PostgreSQL database
+2026-07-30T09:11:04Z INFO  [auth-service] Connected to Redis cache
+2026-07-30T09:11:05Z INFO  [auth-service] Registered health check endpoint
+2026-07-30T09:11:06Z INFO  [auth-service] Registered metrics endpoint
+2026-07-30T09:11:07Z INFO  [auth-service] Pod assigned to node worker-node-1
+2026-07-30T09:11:08Z INFO  [auth-service] Readiness probe succeeded
+2026-07-30T09:11:09Z INFO  [auth-service] Liveness probe succeeded
+2026-07-30T09:11:10Z INFO  [auth-service] Received authentication request
+2026-07-30T09:11:11Z INFO  [auth-service] Authentication successful for user user22
+2026-07-30T09:11:12Z INFO  [auth-service] JWT token generated
+2026-07-30T09:11:13Z INFO  [auth-service] Request processed in 24 ms
+2026-07-30T09:11:14Z INFO  [auth-service] Cache hit for session 25
+2026-07-30T09:11:15Z INFO  [auth-service] Fetched user profile 26
+2026-07-30T09:11:16Z INFO  [auth-service] Database query completed in 27 ms
+2026-07-30T09:11:17Z INFO  [auth-service] Connection pool status: active=8 idle=12
+2026-07-30T09:11:18Z INFO  [auth-service] Background scheduler heartbeat
+2026-07-30T09:11:19Z INFO  [auth-service] Pod is Ready
+2026-07-30T09:11:20Z INFO  [auth-service] Starting application on port 8080
+2026-07-30T09:11:21Z INFO  [auth-service] Loading configuration from ConfigMap
+2026-07-30T09:11:22Z INFO  [auth-service] Initializing dependency injection container
+2026-07-30T09:11:23Z INFO  [auth-service] Connected to PostgreSQL database
+2026-07-30T09:11:24Z INFO  [auth-service] Connected to Redis cache
+2026-07-30T09:11:25Z INFO  [auth-service] Registered health check endpoint
+2026-07-30T09:11:26Z INFO  [auth-service] Registered metrics endpoint
+2026-07-30T09:11:27Z INFO  [auth-service] Pod assigned to node worker-node-1
+2026-07-30T09:11:28Z INFO  [auth-service] Readiness probe succeeded
+2026-07-30T09:11:29Z INFO  [auth-service] Liveness probe succeeded
+2026-07-30T09:11:30Z INFO  [auth-service] Received authentication request
+2026-07-30T09:11:31Z INFO  [auth-service] Authentication successful for user user42
+2026-07-30T09:11:32Z INFO  [auth-service] JWT token generated
+2026-07-30T09:11:33Z INFO  [auth-service] Request processed in 44 ms
+2026-07-30T09:11:34Z INFO  [auth-service] Cache hit for session 45
+2026-07-30T09:11:35Z INFO  [auth-service] Fetched user profile 46
+2026-07-30T09:11:36Z INFO  [auth-service] Database query completed in 47 ms
+2026-07-30T09:11:37Z INFO  [auth-service] Connection pool status: active=8 idle=12
+2026-07-30T09:11:38Z INFO  [auth-service] Background scheduler heartbeat
+2026-07-30T09:11:39Z INFO  [auth-service] Pod is Ready

@@ -1,0 +1,10 @@
+2026-07-30T08:55:12Z INFO  [auth-service] Starting application on port 8080
+2026-07-30T08:55:13Z INFO  [kubelet] Pod auth-service-6f8c7d9b5c-xk9lm scheduled on node worker-node-1
+2026-07-30T08:55:15Z INFO  [database] Successfully connected to PostgreSQL database
+2026-07-30T08:56:02Z WARN  [auth-service] High response time detected: 1450 ms
+2026-07-30T08:56:15Z ERROR [database] Connection timeout after 5000 ms while executing query
+2026-07-30T08:56:16Z ERROR [auth-service] Failed to authenticate user: database connection unavailable
+2026-07-30T08:56:18Z INFO  [kubelet] Readiness probe failed for pod auth-service-6f8c7d9b5c-xk9lm
+2026-07-30T08:56:20Z WARN  [deployment-controller] Restarting container auth-service (restart count: 1)
+2026-07-30T08:56:25Z INFO  [database] Database connection re-established successfully
+2026-07-30T08:56:30Z INFO  [kubelet] Pod auth-service-6f8c7d9b5c-xk9lm is Ready

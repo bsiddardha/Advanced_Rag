@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Log Analyzer</title>
+
+    <link rel="stylesheet" href="/frontend/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🤖 AI Log Analyzer</h1>
+
+    <div class="card">
+
+        <h2>Upload Log File</h2>
+
+        <input type="file" id="logFile">
+
+        <button id="uploadBtn">
+            Upload
+        </button>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Or Paste Logs</h2>
+
+        <textarea
+            id="logs"
+            rows="10"
+            placeholder="Paste your logs here..."
+        ></textarea>
+
+        <button id="processBtn">
+            Process Logs
+        </button>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Ask a Question</h2>
+
+        <input
+            type="text"
+            id="question"
+            placeholder="Example: What caused the application crash?"
+        >
+
+        <button id="askBtn">
+            Ask
+        </button>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Answer</h2>
+
+        <div id="answer">
+            Waiting for your question...
+        </div>
+
+    </div>
+
+</div>
+
+<script src="/frontend/script.js"></script>
+
+</body>
+</html>
